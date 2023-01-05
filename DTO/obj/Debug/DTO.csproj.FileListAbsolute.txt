@@ -1,0 +1,7 @@
+C:\Users\ANHDUC\Desktop\PRN292\ProjectPRN\DTO\bin\Debug\DTO.exe
+C:\Users\ANHDUC\Desktop\PRN292\ProjectPRN\DTO\bin\Debug\DTO.pdb
+C:\Users\ANHDUC\Desktop\PRN292\ProjectPRN\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\ANHDUC\Desktop\PRN292\ProjectPRN\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\Users\ANHDUC\Desktop\PRN292\ProjectPRN\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ANHDUC\Desktop\PRN292\ProjectPRN\DTO\obj\Debug\DTO.exe
+C:\Users\ANHDUC\Desktop\PRN292\ProjectPRN\DTO\obj\Debug\DTO.pdb
